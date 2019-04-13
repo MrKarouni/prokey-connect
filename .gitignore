@@ -19,4 +19,6 @@ logs
 .yarnclean
 
 # Local config file
+package-lock.json
+
 # webpack/constants.js
